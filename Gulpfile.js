@@ -25,7 +25,7 @@ var name = 'shuffle';
 var prefix = ['/*!',
   ' * <%= pkg.name %> - v<%= pkg.version %>',
   ' *',
-  ' * Copyright (c) ' + new Date().getFullYear() + ', <%= pkg.author %>',
+  ' * Copyright (c) ' + new Date().getFullYear() + ', <%= pkg.author.name %> <<%= pkg.author.email %>>',
   ' * Released under the MIT license.',
   ' */',
   '(function(window) {',

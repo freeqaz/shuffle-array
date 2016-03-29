@@ -1,7 +1,7 @@
 /*!
  * shuffle-array - v0.1.2
  *
- * Copyright (c) 2015, Guille Paz <guille87paz@gmail.com>
+ * Copyright (c) 2016, Free Wortley <jw@freeqaz.com>
  * Released under the MIT license.
  */
 (function(window) {
